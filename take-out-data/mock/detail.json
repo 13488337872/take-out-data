@@ -1,0 +1,82 @@
+{
+	"banImg":"http://p1.meituan.net/208.126/deal/d2368116fb812ddad2a23d28108a6ddd39252.jpg",
+	"name":"加米仕牛排自助/加米仕牛排自助2选1",
+	"sale":243,
+	"time":"约34分钟",
+	"sjg":"￥62",
+	"jg":"￥98",
+	"zhe":"3.42折",
+	"xian":10,
+	"col":[
+		{
+			"colId":"01001",
+			"colNum":234,
+			"colImg01":"http://p1.meituan.net/bbia/d2a46d9d12ccfe6bf32e5d554b5ef56c64216.jpg",
+			"cloImg02":"http://qcloud.dpfile.com/pc/OaZGs4Fot57RL6hG_afKL3MEsX9qSE9tKXZPmY5-eAQkBHXjjhGjXmpnGw2zr-c6mXKqvF8xz-Pgbz9r8ffpSA.jpg",
+			"colmoney":34,
+			"col":"￥32"
+			
+		},
+		{
+			"colId":"01002",
+			"colNum":164,
+			"colImg01":"http://p1.meituan.net/208.126/deal/051c349481509b11b4564f221453ba1452889.jpg",
+			"cloImg02":"http://p0.meituan.net/208.126/deal/aa8fbcd0b226d6d3b3afd33dad2501f498315.jpg",
+			"colmoney":23,
+			"col":"￥56"
+			
+		}
+	],
+	"total":0,
+	"dname":"商品详情",
+	"des":"飘香，由名便能想到其味浓而悠长,以花来说， 飘香犹如馥郁的牡丹雍容华贵，口齿生香但口腔里会有霎时爆裂出的龙虾鲜香~作料虽优，但丝毫不掩虾肉之鲜弹~,仅售45.8元！最高价值64元的特色2人焖面套餐，提供免费WiFi",
+	"attr":[
+		{
+			"主料":"小龙虾",
+			"口味":"原味",
+			"荤素":"荤",
+			"菜系":"其他菜系"
+		}
+	],
+	"dbao":"包装费",
+	"bao":"没分额外收取包装费1.0元",
+	"tu":"94%",
+	"fen":"78%",
+	"xian":"99%",
+	"elvalist":[
+		{
+			"userId":"01001",
+			"userName":"13646528532",
+			"userImg":"http://p1.meituan.net/600.600/mogu/e220339fdf28eb3d26d5861d383c8420544594.png",
+			"elvaTime":"2018.07.24",
+			"elvazan":"攒了该商品",
+			"elvaDes":"缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务",
+			"elvaImg":[
+					"http://p1.meituan.net/600.600/mogu/e220339fdf28eb3d26d5861d383c8420544594.png"
+				]	
+		},
+		{
+				"userId":"01002",
+				"userImg":"http://p0.meituan.net/600.600/bbia/d4c60302c5e7ca8263ea19da78b7007d3503555.jpg",
+				"elvaTime":"2019.07.24",
+				"elvazan":"攒了该商品",
+				"elvaDes":"缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务",
+				"elvaImg":[
+					"http://p1.meituan.net/600.600/mogu/e220339fdf28eb3d26d5861d383c8420544594.png",
+					"http://p1.meituan.net/600.600/poi/73504dbceb25d0d7d5d5e0d045471c48133637.jpg",
+					"http://p1.meituan.net/600.600/deal/b6bf71fc6871bdbe56e59e6257ae1f2897611.jpg"
+				]
+			},
+			{
+				"userId":"01003",
+				"userImg":"https://img.meituan.net/600.600/msmerchant/80900cbfda13f5d1fd034f07a04080c3122277.jpg",
+				"elvaTime":"2019.03.02",
+				"elvazan":"攒了该商品",
+				"elvaDes":"缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务缤纷水果蛋糕盒子规格：约 4 英寸,方生产日期：自提当日生产不提供包装服务",
+				"elvaImg":[
+					
+				]
+			}
+		
+	]
+}

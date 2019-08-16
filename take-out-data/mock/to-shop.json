@@ -1,5 +1,4 @@
 {  
-    {
         //店铺数据格式
         //成功时返回0
         "status":0,
@@ -10,7 +9,7 @@
         "nearbyShopTime":"30",//时间
         "nearbyShopMitig":[//满减
             {
-                "full":"25",// 满多少
+                "full":"25",//满多少
                 "minus":"5"//减多少
             },
             {
@@ -34,7 +33,7 @@
                         "foodPrice":"26",//单价
                         "foodmaterialis":"木耳、桃仁",//用料
                         "foodNum":"0"//默认数量
-                    },
+                    }
                 ]
             },
             {
@@ -50,7 +49,7 @@
                         "foodPrice":"10",//单价
                         "foodmaterialis":"面粉",//用料
                         "foodNum":"0"//默认数量
-                    },
+                    }
                 ]
             },
             {
@@ -64,10 +63,8 @@
                         "foodPrice":"12",//单价
                         "foodmaterialis":"大米",//用料
                         "foodNum":"0"//默认数量
-                    },
+                    }
                 ]
-            },
+            }
         ]
-
-    }
 }
