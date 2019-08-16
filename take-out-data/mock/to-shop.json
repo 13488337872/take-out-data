@@ -1,0 +1,73 @@
+{  
+    {
+        //店铺数据格式
+        //成功时返回0
+        "status":0,
+        "id":"1",//商铺id
+        "nearbyShopAdvtange":1, //1代表星选好店，2代表品牌，0代表什么都不是
+        "nearbyShopyPic":"/img/shopList1.png",//logo图片
+        "nearbyShopName":"橡树街早点（橡树街区店）",//店名
+        "nearbyShopTime":"30",//时间
+        "nearbyShopMitig":[//满减
+            {
+                "full":"25",// 满多少
+                "minus":"5"//减多少
+            },
+            {
+                "full":"35",
+                "minus":"7"
+            },
+            {
+                "full":"55",
+                "minus":"10"
+            }
+        ],
+        "shopOrder":[
+            {
+                "shopFoodMenu":"凉菜"//主营类型
+                "shopFoodList":[//菜品列表信息
+                    {
+                        "foodId":"0101",//菜品id
+                        "foodImg":{"url":"图片路径"},//食物图片
+                        "foodName":"木耳桃仁",//菜名
+                        "foodSale":"1236",//月售
+                        "foodPrice":"26",//单价
+                        "foodmaterialis":"木耳、桃仁",//用料
+                        "foodNum":"0"//默认数量
+                    },
+                ]
+            },
+            {
+                "shopFoodMenu":"小吃"//主营类型
+                "shopFoodList":[//菜品列表信息
+                    {
+                        
+                        
+                        "foodId":"0101",
+                        "foodImg":{"url":"图片路径"},//食物图片
+                        "foodName":"南瓜饼",//菜名
+                        "foodSale":"1236",//月售
+                        "foodPrice":"10",//单价
+                        "foodmaterialis":"面粉",//用料
+                        "foodNum":"0"//默认数量
+                    },
+                ]
+            },
+            {
+                "shopFoodMenu":"米饭套餐"//主营类型
+                "shopFoodList":[//菜品列表信息
+                    {
+                        "foodId":"0103",
+                        "foodImg":{"url":"图片路径"},//食物图片
+                        "foodName":"炒米饭",//菜名
+                        "foodSale":"12",//月售
+                        "foodPrice":"12",//单价
+                        "foodmaterialis":"大米",//用料
+                        "foodNum":"0"//默认数量
+                    },
+                ]
+            },
+        ]
+
+    }
+}

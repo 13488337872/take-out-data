@@ -1,0 +1,33 @@
+{
+    //用户id
+    "status":0,
+    "user":{
+        "userName":"18577888877",//用户名为手机号
+        "userId":"001",//用户id
+        "userPwd":"123456789",//密码由数字字母存储
+        "userAdress":"立人科技",//我的地址
+        
+        "userCollect":[
+            "01"
+        ],//我的收藏   存储的是店铺id
+
+        "orderFrom":[
+            "01"
+        ],//我的订单   id从购物车拿取信息
+
+
+        "userShopCart":[//购物车
+            {
+                "id":"1",//商铺id
+                "checked":"true",
+                "food":[
+                    {
+                        "foodId":"01",
+                        "foodNum":1,
+                        "foodPrice":25
+                    }
+                ]//菜品
+            }
+        ]
+    }
+}

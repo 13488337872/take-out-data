@@ -2,6 +2,7 @@ const express = require("express")
 const path = require("path")
 //模拟数据
 const index = require("./mock/index")
+// const tosjop = require("./mock/to-shop")
 //创建一个express服务对象
 const app = express()
 const router = express.Router()
@@ -20,7 +21,7 @@ router.all('*',function (req, res, next) {
 
 
 /**
- * 根据用户获取当前的购物车列表
+ * 根据用户获取当前的主页列表
  * */
 router.get("/index" ,(req,res)=>{
     res.json(index)

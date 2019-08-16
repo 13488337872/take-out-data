@@ -1,4 +1,5 @@
 {
+    "status":0,
 	"headList":[
 		"coco都可", "酸辣粉", "土豆片夹馍", "砂锅", "炸鸡"
 	],
@@ -12,7 +13,7 @@
 	],
 	"activity":"/img/9.gif",
 	"nav":[
-		{	
+		{
 			"navId":"01",
 			"navPic":"/img/nav1.png",
 			"navName":"美食"
@@ -38,6 +39,7 @@
 			"navName":"送药上门"
 		}
 	],
+
 	"menu":[
 		{
 			"menuId":"01",
@@ -134,6 +136,37 @@
 			"ActName":"我的"
 		}
 	],
+	"eatter":{
+		"eaterTop":[
+			{
+			"eaterTopName":"周二实惠日",
+			"eaterTopPic":"/img/eattertop1.png"
+			},
+			{
+			"eaterTopName":"非吃不可榜",
+			"eaterTopPic":"/img/eattertop2.png"
+			}
+		],
+		"eaterBtm":[
+			{
+			"eaterBtmName":"健身",
+			"eaterBtmPic":"/img/eatterbtm1.png"
+			},
+			{
+			"eaterBtmName":"满减",
+			"eaterBtmPic":"/img/eatterbtm1.png"
+			},
+			{
+			"eaterBtmName":"优惠",
+			"eaterBtmPic":"/img/eatterbtm1.png"
+			},
+			{
+			"eaterBtmName":"荤素PK",
+			"eaterBtmPic":"/img/eatterbtm1.png"
+			}
+		]
+	},
+
 	"ask":[
 		{
 			"askPic":"/img/ask1.png",
@@ -151,8 +184,60 @@
 			"askDistance":"586米"
 		}
 	],
+	"cate":[
+			{
+				"mustEat" :{
+					"mustEatBigPic":"/img/musteat1.png",
+					"mustEatList":[
+						{"mustEatListName":"MaxChicken",
+							"mustEatListpic":"/img/musteatlist1.png"
+						},
+						{
+							"mustEatListName":"馋嘴佳鸡...",
+								"mustEatListpic":"/img/musteatlist2.png"
+						},
+						{
+							"mustEatListName":"撒酱香鸡",
+								"mustEatListpic":"/img/musteatlist3.png"
+						},
+						{
+							"mustEatListName":"推荐更多",
+								"mustEatListpic":"/img/musteatlist4.png"
+						}
+					]
+				} 	
+			},
+			{
+				"spread" :{
+					"spreadBigPic":"/img/spread1.png",
+					"spreadList":[
+						{"spreadListName":"陕北风味",
+							"spreadListpic":"/img/spreadList1.png"
+						},
+						{
+							"spreadListName":"胖之味果...",
+								"spreadListpic":"/img/spreadList2.png"
+						},
+						{
+							"spreadListName":"青一色藤椒鱼",
+								"spreadListpic":"/img/spreadList3.png"
+						},
+						{
+							"spreadListName":"推荐更多",
+								"spreadListpic":"/img/spreadList4.png"
+						}
+					]
+				} 	
+			}
+	],
 	"nearbyShop":[
 		{
+			"id":"1",
+			"toStore":"1",
+			"nearbyShopType":"快餐小吃",
+			"nearbyShopAgentFee":"15",
+			"nearbyShopAddress":"立人科技",
+			"nearbyShopAdvtange":1,
 			"nearbyShopyPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
@@ -160,7 +245,7 @@
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
-			"nearbyShopType":"快餐小吃",
+			"nearbyShopDelivery_type":1,
 			"nearbyShopMitig":[
 				{
 					"full":"25",
@@ -177,6 +262,12 @@
 			]
 		},
 		{
+			"id":"1",
+			"toStore":"1",
+			"nearbyShopType":"快餐小吃",
+			"nearbyShopAgentFee":"15",
+			"nearbyShopAddress":"立人科技",
+			"nearbyShopAdvtange":1,
 			"nearbyShopyPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
@@ -184,7 +275,7 @@
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
-			"nearbyShopType":"快餐小吃",
+			"nearbyShopDelivery_type":1,
 			"nearbyShopMitig":[
 				{
 					"full":"25",
@@ -201,6 +292,12 @@
 			]
 		},
 		{
+			"id":"1",
+			"toStore":"1",
+			"nearbyShopType":"快餐小吃",
+			"nearbyShopAgentFee":"15",
+			"nearbyShopAddress":"立人科技",
+			"nearbyShopAdvtange":1,
 			"nearbyShopyPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
@@ -208,7 +305,67 @@
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
+			"nearbyShopDelivery_type":1,
+			"nearbyShopMitig":[
+				{
+					"full":"25",
+					"minus":"5"
+				},
+				{
+					"full":"35",
+					"minus":"7"
+				},
+				{
+					"full":"55",
+					"minus":"10"
+				}
+			]
+		},
+		{
+			"id":"1",
+			"toStore":"1",
 			"nearbyShopType":"快餐小吃",
+			"nearbyShopAgentFee":"15",
+			"nearbyShopAddress":"立人科技",
+			"nearbyShopAdvtange":1,
+			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopName":"橡树街早点（橡树街区店）",
+			"nearbyShopStar":"4.5",
+			"nearbyShopSale":"1245",
+			"nearbyShopTime":"30",
+			"nearbyShopDistance":"1.8km",
+			"nearbyShopSend":"15",
+			"nearbyShopDelivery_type":1,
+			"nearbyShopMitig":[
+				{
+					"full":"25",
+					"minus":"5"
+				},
+				{
+					"full":"35",
+					"minus":"7"
+				},
+				{
+					"full":"55",
+					"minus":"10"
+				}
+			]
+		},
+		{
+			"id":"1",
+			"toStore":"1",
+			"nearbyShopType":"快餐小吃",
+			"nearbyShopAgentFee":"15",
+			"nearbyShopAddress":"立人科技",
+			"nearbyShopAdvtange":1,
+			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopName":"橡树街早点（橡树街区店）",
+			"nearbyShopStar":"4.5",
+			"nearbyShopSale":"1245",
+			"nearbyShopTime":"30",
+			"nearbyShopDistance":"1.8km",
+			"nearbyShopSend":"15",
+			"nearbyShopDelivery_type":1,
 			"nearbyShopMitig":[
 				{
 					"full":"25",
