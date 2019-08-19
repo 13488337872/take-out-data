@@ -1,7 +1,5 @@
 {  
-        //店铺数据格式
-        //成功时返回0
-        "status":0,
+        "status":0,//店铺数据格式   成功时返回0
         "id":"1",//商铺id
         "nearbyShopAdvtange":1, //1代表星选好店，2代表品牌，0代表什么都不是
         "nearbyShopyPic":"/img/shopList1.png",//logo图片
@@ -23,7 +21,7 @@
         ],
         "shopOrder":[
             {
-                "shopFoodMenu":"凉菜"//主营类型
+                "shopFoodMenu":"凉菜",//主营类型
                 "shopFoodList":[//菜品列表信息
                     {
                         "foodId":"0101",//菜品id

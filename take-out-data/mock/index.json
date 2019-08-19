@@ -33,7 +33,7 @@
 			"navPic":"/img/nav4.png",
 			"navName":"蔬菜水果"
 		},
-		{	
+		{
 			"navId":"05",
 			"navPic":"/img/nav5.png",
 			"navName":"送药上门"
@@ -170,17 +170,17 @@
 	"ask":[
 		{
 			"askPic":"/img/ask1.png",
-			"askName":"粥先生（高新店）",
+			"askName":"粥先生（高新店）粥先生（高新店）",
 			"askDistance":"586米"
 		},
 		{
 			"askPic":"/img/ask1.png",
-			"askName":"粥先生（高新店）",
+			"askName":"粥先生（高新店）粥先生（高新店）",
 			"askDistance":"586米"
 		},
 		{
 			"askPic":"/img/ask1.png",
-			"askName":"粥先生（高新店）",
+			"askName":"粥先生（高新店粥先生（高新店）",
 			"askDistance":"586米"
 		}
 	],
@@ -230,6 +230,7 @@
 				} 	
 			}
 	],
+
 	"nearbyShop":[
 		{
 			"id":"1",
@@ -238,7 +239,7 @@
 			"nearbyShopAgentFee":"15",
 			"nearbyShopAddress":"立人科技",
 			"nearbyShopAdvtange":1,
-			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
 			"nearbyShopSale":"1245",
@@ -268,7 +269,7 @@
 			"nearbyShopAgentFee":"15",
 			"nearbyShopAddress":"立人科技",
 			"nearbyShopAdvtange":1,
-			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
 			"nearbyShopSale":"1245",
@@ -298,14 +299,14 @@
 			"nearbyShopAgentFee":"15",
 			"nearbyShopAddress":"立人科技",
 			"nearbyShopAdvtange":1,
-			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
 			"nearbyShopSale":"1245",
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
-			"nearbyShopDelivery_type":1,
+			"nearbyShopDelivery_type":0,
 			"nearbyShopMitig":[
 				{
 					"full":"25",
@@ -328,14 +329,14 @@
 			"nearbyShopAgentFee":"15",
 			"nearbyShopAddress":"立人科技",
 			"nearbyShopAdvtange":1,
-			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
 			"nearbyShopSale":"1245",
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
-			"nearbyShopDelivery_type":1,
+			"nearbyShopDelivery_type":0,
 			"nearbyShopMitig":[
 				{
 					"full":"25",
@@ -358,14 +359,14 @@
 			"nearbyShopAgentFee":"15",
 			"nearbyShopAddress":"立人科技",
 			"nearbyShopAdvtange":1,
-			"nearbyShopyPic":"/img/shopList1.png",
+			"nearbyShopPic":"/img/shopList1.png",
 			"nearbyShopName":"橡树街早点（橡树街区店）",
 			"nearbyShopStar":"4.5",
 			"nearbyShopSale":"1245",
 			"nearbyShopTime":"30",
 			"nearbyShopDistance":"1.8km",
 			"nearbyShopSend":"15",
-			"nearbyShopDelivery_type":1,
+			"nearbyShopDelivery_type":0,
 			"nearbyShopMitig":[
 				{
 					"full":"25",

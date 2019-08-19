@@ -1,9 +1,13 @@
 const express = require("express")
 const path = require("path")
+
+
 //模拟数据
 const index = require("./mock/index")
 const detail = require("./mock/detail")
 // const tosjop = require("./mock/to-shop")
+
+
 //创建一个express服务对象
 const app = express()
 const router = express.Router()
