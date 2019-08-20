@@ -5,6 +5,9 @@ const path = require("path")
 //模拟数据
 const index = require("./mock/index")
 const detail = require("./mock/detail")
+
+//购物车
+const shopCar = require("./mock/shopCar")
 // const tosjop = require("./mock/to-shop")
 
 
@@ -35,7 +38,10 @@ router.get("/index" ,(req,res)=>{
 router.get("/detail" ,(req,res)=>{
     res.json(detail)
 })
-
+//购物车
+router.get("/shopCar" ,(req,res)=>{
+    res.json(shopCar)
+});
 
 
 //把当前的路由添加到app /api/cartinfo

@@ -11,11 +11,24 @@
             "01"
         ],//我的收藏   存储的是店铺id
 
-        "orderFrom":[
-            "01"
+
+
+        //后端传前端
+        "orderFrom":[//订单
+            {
+                "shopId":"1",//店铺id
+                "shopFoodList":[
+                    {
+                        "foodId":"01",//食物id
+                        "foodNum":"2"//食物数量
+                    }
+                ]
+            }
         ],//我的订单   id从购物车拿取信息
 
 
+        
+        //后端传前端
         "userShopCart":[//购物车
             {
                 "id":"1",//商铺id
