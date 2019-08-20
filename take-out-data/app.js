@@ -10,6 +10,10 @@ const detail = require("./mock/detail")
 const shopCar = require("./mock/shopCar")
 // const tosjop = require("./mock/to-shop")
 
+//我的订单
+const mtorders = require("./mock/mt-order")
+
+
 
 //创建一个express服务对象
 const app = express()
@@ -43,6 +47,10 @@ router.get("/shopCar" ,(req,res)=>{
     res.json(shopCar)
 });
 
+//我的订单
+router.get("/mtorders" ,(req,res)=>{
+    res.json(mtorders)
+})
 
 //把当前的路由添加到app /api/cartinfo
 app.use("/api",router)
