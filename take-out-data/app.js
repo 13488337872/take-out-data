@@ -13,6 +13,8 @@ const shopCar = require("./mock/shopCar")
 //我的订单
 const mtorders = require("./mock/mt-order")
 
+//附近电铺
+const mtShopList = require("./mock/mt-shopList")
 
 
 //创建一个express服务对象
@@ -50,6 +52,11 @@ router.get("/shopCar" ,(req,res)=>{
 //我的订单
 router.get("/mtorders" ,(req,res)=>{
     res.json(mtorders)
+})
+
+//附近商铺列表
+router.get("/mtShopList" ,(req,res)=>{
+    res.json(mtShopList)
 })
 
 //把当前的路由添加到app /api/cartinfo
