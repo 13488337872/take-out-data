@@ -16,6 +16,8 @@ const mtorders = require("./mock/mt-order")
 //附近电铺
 const mtShopList = require("./mock/mt-shopList")
 
+//附近电铺
+const classifcations = require("./mock/class-if-cations")
 
 //创建一个express服务对象
 const app = express()
@@ -57,6 +59,11 @@ router.get("/mtorders" ,(req,res)=>{
 //附近商铺列表
 router.get("/mtShopList" ,(req,res)=>{
     res.json(mtShopList)
+})
+
+//全部分类
+router.get("/classifcations" ,(req,res)=>{
+    res.json(classifcations)
 })
 
 //把当前的路由添加到app /api/cartinfo
