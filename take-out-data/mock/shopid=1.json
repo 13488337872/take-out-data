@@ -1,0 +1,359 @@
+{
+    "status": 0,
+    "id": "1",
+    "nearbyShopAdvtange": 0,
+    "nearbyShopPic": "http://p0.meituan.net/waimaipoi/63feb53e64d75ea94f6fd3fb182837bc225280.jpg",
+    "nearbyShopName": "老米家泡馍（科技五路店）",
+    "nearbyShopTime": "31分钟",
+    "nearbyShopMitig": [
+        {
+            "full": "25",
+            "minus": "5"
+        },
+        {
+            "full": "35",
+            "minus": "7"
+        },
+        {
+            "full": "55",
+            "minus": "10"
+        }
+    ],
+    "shopOrder": [
+        {
+            "shopFoodMenu": "经典套餐",
+            "shopFoodList": [
+                {
+                    "foodId": 45,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/a369623b64c5aeff88ed157fb51ef8e6227257.jpg"
+                    },
+                    "foodName": "普通小炒泡馍",
+                    "foodSale": 149,
+                    "foodPrice": 22.0,
+                    "foodNum": 97
+                },
+                {
+                    "foodId": 49,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/8a9559f2661accf7180f9e306a6e2e54207259.jpg"
+                    },
+                    "foodName": "优质小炒泡馍",
+                    "foodSale": 708,
+                    "foodPrice": 28.0,
+                    "foodNum": 84
+                },
+                {
+                    "foodId": 52,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/38c4cccb33d4b3a529a15048f96e34eb234018.jpg"
+                    },
+                    "foodName": "普通羊肉泡馍",
+                    "foodSale": 789,
+                    "foodPrice": 27.0,
+                    "foodNum": 16
+                },
+                {
+                    "foodId": 53,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/2927bffc2b2b46b8509b5838f34269bb180318.jpg"
+                    },
+                    "foodName": "凉菜",
+                    "foodSale": 472,
+                    "foodPrice": 12.0,
+                    "foodNum": 15
+                },
+                {
+                    "foodId": 55,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/02f47877cef58fca43988f11e3c250a3635655.jpg"
+                    },
+                    "foodName": "普通牛肉泡馍",
+                    "foodSale": 422,
+                    "foodPrice": 22.0,
+                    "foodNum": 81
+                },
+                {
+                    "foodId": 58,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/8a9559f2661accf7180f9e306a6e2e54207259.jpg"
+                    },
+                    "foodName": "优质小炒泡馍",
+                    "foodSale": 925,
+                    "foodPrice": 28.0,
+                    "foodNum": 37
+                }
+            ]
+        },
+        {
+            "shopFoodMenu": "小吃",
+            "shopFoodList": [
+                {
+                    "foodId": 46,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/02f47877cef58fca43988f11e3c250a3635655.jpg"
+                    },
+                    "foodName": "普通牛肉泡馍",
+                    "foodSale": 833,
+                    "foodPrice": 22.0,
+                    "foodNum": 30
+                },
+                {
+                    "foodId": 50,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/de61608b09b5d6af4f431a6c6ed05ba9216334.jpg"
+                    },
+                    "foodName": "优质牛肉泡馍",
+                    "foodSale": 750,
+                    "foodPrice": 28.0,
+                    "foodNum": 99
+                },
+                {
+                    "foodId": 65,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/f6cedf46db06fb74c28dba738b2d46ff137435.jpg"
+                    },
+                    "foodName": "鸡蛋汤",
+                    "foodSale": 635,
+                    "foodPrice": 12.0,
+                    "foodNum": 90
+                },
+                {
+                    "foodId": 74,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/7e25ef5cc99ad68d6b59739c3a807878431627.jpg"
+                    },
+                    "foodName": "糖蒜",
+                    "foodSale": 403,
+                    "foodPrice": 2.0,
+                    "foodNum": 24
+                }
+            ]
+        },
+        {
+            "shopFoodMenu": "专享福利",
+            "shopFoodList": [
+                {
+                    "foodId": 47,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/7e25ef5cc99ad68d6b59739c3a807878431627.jpg"
+                    },
+                    "foodName": "糖蒜",
+                    "foodSale": 643,
+                    "foodPrice": 2.0,
+                    "foodNum": 21
+                },
+                {
+                    "foodId": 54,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/7927dbb0a20e05d8cdd434e281f1a23296830.jpg"
+                    },
+                    "foodName": "果啤",
+                    "foodSale": 719,
+                    "foodPrice": 4.0,
+                    "foodNum": 58
+                },
+                {
+                    "foodId": 62,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/7c9c767ca12b13524615d9792cb2c54d606976.jpg"
+                    },
+                    "foodName": "羊肉水盆",
+                    "foodSale": 593,
+                    "foodPrice": 35.0,
+                    "foodNum": 65
+                },
+                {
+                    "foodId": 63,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/e28c32f6477c0005039bf9b6177c7d25179220.jpg"
+                    },
+                    "foodName": "凉拌牛肉",
+                    "foodSale": 531,
+                    "foodPrice": 58.0,
+                    "foodNum": 97
+                },
+                {
+                    "foodId": 66,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/7927dbb0a20e05d8cdd434e281f1a23296830.jpg"
+                    },
+                    "foodName": "果啤",
+                    "foodSale": 142,
+                    "foodPrice": 4.0,
+                    "foodNum": 69
+                },
+                {
+                    "foodId": 68,
+                    "foodImg": {
+                        "url": ""
+                    },
+                    "foodName": "王老吉",
+                    "foodSale": 381,
+                    "foodPrice": 5.0,
+                    "foodNum": 97
+                },
+                {
+                    "foodId": 71,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/4d600490f71106ddb8ba976d64cf05ec388351.jpg"
+                    },
+                    "foodName": "加鸡蛋",
+                    "foodSale": 64,
+                    "foodPrice": 2.0,
+                    "foodNum": 33
+                },
+                {
+                    "foodId": 72,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/717ae2d45b562161a7d834fb3b2e47f6654228.jpg"
+                    },
+                    "foodName": "泡馍加肉",
+                    "foodSale": 357,
+                    "foodPrice": 15.0,
+                    "foodNum": 86
+                },
+                {
+                    "foodId": 75,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/be8e5ac2a428980d4babc2b99428036d747418.jpg"
+                    },
+                    "foodName": "加馍",
+                    "foodSale": 587,
+                    "foodPrice": 1.0,
+                    "foodNum": 74
+                }
+            ]
+        },
+        {
+            "shopFoodMenu": "热卖",
+            "shopFoodList": [
+                {
+                    "foodId": 48,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/4d600490f71106ddb8ba976d64cf05ec388351.jpg"
+                    },
+                    "foodName": "加鸡蛋",
+                    "foodSale": 685,
+                    "foodPrice": 2.0,
+                    "foodNum": 95
+                },
+                {
+                    "foodId": 51,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/752dd2883809190fe03d350f996c86c7564233.jpg"
+                    },
+                    "foodName": "加粉丝",
+                    "foodSale": 701,
+                    "foodPrice": 2.0,
+                    "foodNum": 48
+                },
+                {
+                    "foodId": 56,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/de61608b09b5d6af4f431a6c6ed05ba9216334.jpg"
+                    },
+                    "foodName": "优质牛肉泡馍",
+                    "foodSale": 872,
+                    "foodPrice": 28.0,
+                    "foodNum": 58
+                },
+                {
+                    "foodId": 57,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/a369623b64c5aeff88ed157fb51ef8e6227257.jpg"
+                    },
+                    "foodName": "普通小炒泡馍",
+                    "foodSale": 174,
+                    "foodPrice": 22.0,
+                    "foodNum": 54
+                },
+                {
+                    "foodId": 59,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/38c4cccb33d4b3a529a15048f96e34eb234018.jpg"
+                    },
+                    "foodName": "普通羊肉泡馍",
+                    "foodSale": 219,
+                    "foodPrice": 27.0,
+                    "foodNum": 12
+                },
+                {
+                    "foodId": 60,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/xianfudwm/8a0d8b98505d973b5d4285261847519a127642.jpg"
+                    },
+                    "foodName": "优质羊肉泡馍",
+                    "foodSale": 938,
+                    "foodPrice": 35.0,
+                    "foodNum": 87
+                },
+                {
+                    "foodId": 69,
+                    "foodImg": {
+                        "url": ""
+                    },
+                    "foodName": "冰峰",
+                    "foodSale": 611,
+                    "foodPrice": 5.0,
+                    "foodNum": 26
+                }
+            ]
+        },
+        {
+            "shopFoodMenu": "必选套餐",
+            "shopFoodList": [
+                {
+                    "foodId": 61,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/c7b52339b78d31add994229f57e79586146637.jpg"
+                    },
+                    "foodName": "牛肉水盆",
+                    "foodSale": 112,
+                    "foodPrice": 30.0,
+                    "foodNum": 21
+                },
+                {
+                    "foodId": 64,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/2927bffc2b2b46b8509b5838f34269bb180318.jpg"
+                    },
+                    "foodName": "凉菜",
+                    "foodSale": 667,
+                    "foodPrice": 12.0,
+                    "foodNum": 94
+                },
+                {
+                    "foodId": 67,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/xianfudwm/9a7a10ebaea3bf386914660c36f1a6b497203.jpg"
+                    },
+                    "foodName": "酸梅汤",
+                    "foodSale": 791,
+                    "foodPrice": 4.0,
+                    "foodNum": 18
+                },
+                {
+                    "foodId": 70,
+                    "foodImg": {
+                        "url": "http://p0.meituan.net/wmproductdwm/752dd2883809190fe03d350f996c86c7564233.jpg"
+                    },
+                    "foodName": "加粉丝",
+                    "foodSale": 643,
+                    "foodPrice": 2.0,
+                    "foodNum": 73
+                },
+                {
+                    "foodId": 73,
+                    "foodImg": {
+                        "url": "http://p1.meituan.net/wmproductdwm/7cfec6b4fa4e67c5701e72dc0835c0a1496342.jpg"
+                    },
+                    "foodName": "小炒加肉",
+                    "foodSale": 665,
+                    "foodPrice": 15.0,
+                    "foodNum": 66
+                }
+            ]
+        }
+    ]
+}

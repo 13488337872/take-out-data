@@ -14,7 +14,10 @@ const shopCar = require("./mock/shopCar")
 const mtorders = require("./mock/mt-order")
 
 //附近电铺
-const mtShopList = require("./mock/mt-shopList")
+// const mtShopList = require("./mock/mt-shopList")
+
+//附近电铺
+const mtShopList = require("./mock/shopid=1")
 
 //附近电铺
 const classifcations = require("./mock/class-if-cations")
