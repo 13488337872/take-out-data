@@ -1,0 +1,54 @@
+{
+    "status": 0,
+    "afternoontealist": [{
+            "afternoonteaid": "01",
+            "afternoonteaimg": "/img/picture/duckhead.jpg",
+            "afternoonteaspan": "鸭头",
+            "afternoonteaprice": "￥4.18"
+        },
+        {
+            "afternoonteaid": "02",
+            "afternoonteaimg": "/img/picture/potato.jpg",
+            "afternoonteaspan": "微辣土豆片",
+            "afternoonteaprice": "￥6.18"
+        },
+        {
+            "afternoonteaid": "03",
+            "afternoonteaimg": "/img/picture/ducknk.jpg",
+            "afternoonteaspan": "招牌鸭脖",
+            "afternoonteaprice": "￥12.88"
+        }
+    ],
+    "afternoontearows": [{
+            "afterid": "01",
+            "afterimg": "/img/picture/tea.jpg",
+            "afterspan": "全部"
+        },
+        {
+            "afterid": "02",
+            "afterimg": "/img/picture/coffee.jpg",
+            "afterspan": "奶茶咖啡"
+        },
+        {
+            "afterid": "03",
+            "afterimg": "/img/picture/chicke.jpg",
+            "afterspan": "炸鸡鸭脖"
+        },
+        {
+            "afterid": "04",
+            "afterimg": "/img/picture/baking.jpg",
+            "afterspan": "烘焙甜品"
+        },
+        {
+            "afterid": "05",
+            "afterimg": "/img/picture/fruits.jpg",
+            "afterspan": "水果拼盘"
+        },
+        {
+            "afterid": "06",
+            "afterimg": "/img/picture/hp.jpg",
+            "afterspan": "汉堡披萨"
+        }
+    ]
+
+}

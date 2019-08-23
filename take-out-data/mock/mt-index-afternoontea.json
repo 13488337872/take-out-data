@@ -1,0 +1,54 @@
+{
+    "status": 0,
+    "hamburgerlist": [{
+            "hamburgerid": "01",
+            "hamburgerimg": "/img/picture/pizzaone.jpg",
+            "hamburgerspan": "mt悠享套餐G",
+            "hamburgerprice": "￥14.8"
+
+        },
+        {
+            "hamburgerid": "02",
+            "hamburgerimg": "/img/picture/mspisa.jpg",
+            "hamburgerspan": "悠享套餐A",
+            "hamburgerprice": "￥42.0"
+
+        },
+        {
+            "hamburgerid": "03",
+            "hamburgerimg": "/img/picture/pizzathree.jpg",
+            "hamburgerspan": "香辣鸡腿堡",
+            "hamburgerprice": "￥14.9"
+
+        }
+    ],
+
+    "pizzarows": [{
+            "pizzaid": "01",
+            "pizzaimg": "/img/picture/hanbao.jpg",
+            "pizzaspan": "全部"
+
+        },
+        {
+            "pizzaid": "02",
+            "pizzaimg": "/img/picture/frenchfries.jpg",
+            "pizzaspan": "汉堡薯条"
+        },
+        {
+            "pizzaid": "03",
+            "pizzaimg": "/img/picture/pione.jpg",
+            "pizzaspan": "意面披萨"
+        },
+        {
+            "pizzaid": "04",
+            "pizzaimg": "/img/picture/salad.jpg",
+            "pizzaspan": "低卡沙拉"
+        },
+        {
+            "pizzaid": "05",
+            "pizzaimg": "/img/picture/steak.jpg",
+            "pizzaspan": "法意牛排"
+        }
+
+    ]
+}

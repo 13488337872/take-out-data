@@ -1,0 +1,56 @@
+{
+    "status": 0,
+    "facelist": [{
+            "faceid": "01",
+            "faceimg": "/img/picture/fe.jpg",
+            "facespan": "擀面皮+肉夹馍",
+            "faceprice": "￥14.59"
+
+        },
+        {
+            "faceid": "02",
+            "faceimg": "/img/picture/flesh.jpg",
+            "facespan": "腊汁肉夹馍",
+            "faceprice": "￥10.9"
+
+        },
+        {
+            "faceid": "03",
+            "faceimg": "/img/picture/chow.jpg",
+            "facespan": "抄削筋面",
+            "faceprice": "￥18.0"
+
+        }
+    ],
+    "snackrows": [{
+            "snackid": "01",
+            "snackimg": "/img/picture/shrimp.jpg",
+            "snackspan": "全部"
+        },
+        {
+            "snackid": "02",
+            "snackimg": "/img/picture/noodle.jpg",
+            "snackspan": "粥粉面馆"
+        },
+        {
+            "snackid": "03",
+            "snackimg": "/img/picture/local.jpg",
+            "snackspan": "地方小吃"
+        },
+        {
+            "snackid": "04",
+            "snackimg": "/img/picture/chaos.jpg",
+            "snackspan": "饺子混沌"
+        },
+        {
+            "snackid": "05",
+            "snackimg": "/img/picture/chop.jpg",
+            "snackspan": "鸡排鸭脖"
+        },
+        {
+            "snackid": "06",
+            "snackimg": "/img/picture/fans.jpg",
+            "snackspan": "暖胃粉丝汤"
+        }
+    ]
+}

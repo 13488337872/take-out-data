@@ -22,6 +22,12 @@ const mtShopList = require("./mock/shopid=1")
 //附近电铺
 const classifcations = require("./mock/class-if-cations")
 
+//menu
+const mtindexafternoontea = require("./mock/mt-index-afternoontea")
+const mtindexcooking = require("./mock/mt-index-cooking")
+const mtindexsnack = require("./mock/mt-index-snack")
+const mtindexhamburger = require("./mock/mt-index-hamburger")
+
 //创建一个express服务对象
 const app = express()
 const router = express.Router()
@@ -68,6 +74,25 @@ router.get("/mtShopList" ,(req,res)=>{
 router.get("/classifcations" ,(req,res)=>{
     res.json(classifcations)
 })
+
+//menu
+router.get("/mtindexafternoontea", (req, res) => {
+    res.json(mtindexafternoontea)
+})
+
+router.get("/mtindexcooking", (req, res) => {
+    res.json(mtindexcooking)
+})
+
+router.get("/mtindexsnack", (req, res) => {
+    res.json(mtindexsnack)
+})
+
+router.get("/mtindexhamburger", (req, res) => {
+    res.json(mtindexhamburger)
+})
+
+
 
 //把当前的路由添加到app /api/cartinfo
 app.use("/api",router)

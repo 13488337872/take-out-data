@@ -1,0 +1,60 @@
+{
+    "status": 0,
+    "souplist": [{
+            "soupid": "01",
+            "soupimg": "/img/picture/soup.jpg",
+            "soupspan": "桃胶雪燕莲子",
+            "soupprice": "￥25.8"
+        },
+        {
+            "soupid": "02",
+            "soupimg": "/img/picture/cfeet.jpg",
+            "soupspan": "去骨藤椒鸡爪",
+            "soupprice": "￥22.8"
+        },
+        {
+            "soupid": "03",
+            "soupimg": "/img/picture/abalone.jpg",
+            "soupspan": "花椒浓汤鲍鱼",
+            "soupprice": "￥68.8"
+
+        }
+    ],
+    "cookingrows": [{
+            "cookingid": "01",
+            "cookingimg": "/img/picture/pepper.jpg",
+            "cookingspan": "全部"
+        },
+        {
+            "cookingid": "02",
+            "cookingimg": "/img/picture/cold.jpg",
+            "cookingspan": "口味川湘"
+        },
+        {
+            "cookingid": "03",
+            "cookingimg": "/img/picture/northwest.jpg",
+            "cookingspan": "西北菜"
+        },
+        {
+            "cookingid": "04",
+            "cookingimg": "/img/picture/north.jpg",
+            "cookingspan": "北方佳肴"
+        },
+        {
+            "cookingid": "05",
+            "cookingimg": "/img/picture/privatehouse.jpg",
+            "cookingspan": "特色私房"
+        },
+        {
+            "cookingid": "06",
+            "cookingimg": "/img/picture/jiangsu.jpg",
+            "cookingspan": "江浙菜系"
+        },
+        {
+            "cookingid": "07",
+            "cookingimg": "/img/picture/guangdong.jpg",
+            "cookingspan": "粤菜茶餐厅"
+        }
+    ]
+
+}
