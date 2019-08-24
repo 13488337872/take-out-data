@@ -52,6 +52,7 @@ router.get("/index" ,(req,res)=>{
     res.json(index)
 });
 
+//food详情页面
 router.get("/detail" ,(req,res)=>{
     res.json(detail)
 })
@@ -66,7 +67,7 @@ router.get("/mtorders" ,(req,res)=>{
 })
 
 //附近商铺列表
-router.get("/mtShopList" ,(req,res)=>{
+router.get("/shopid=1" ,(req,res)=>{
     res.json(mtShopList)
 })
 
